@@ -1,0 +1,54 @@
+
+
+{
+    "search.followSymlinks": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/tmp": true,
+        "**/node_modules": true,       
+        "**/bower_components": true,
+        "**/dist": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/bower_components/**": true,
+        "**/dist/**": true
+    },
+    "python.analysis.completeFunctionParens": true,
+    "editor.mouseWheelZoom": true,
+    "editor.fontFamily": "Maple Mono NF, CommitMono Nerd Font, TsangerJinkai03, 'Courier New', monospace",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "Comic Code, Hannotate SC",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Snazzy Light",
+    "workbench.settings.applyToAllProfiles": [
+    
+    
+        
+
+
+        
+    ],
+    // "python": "set PYTHONIOENCODING=utf8 && $pythonPath -u $fullFileName",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "python.venvPath": "/Users/sullic/uvenv",
+    "python.venvFolders": [
+        "/Users/sullic/uvenv"
+    ],
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.cursorStyle": "underline",
+    "workbench.activityBar.location": "top",
+    "python.defaultInterpreterPath": "/Users/sullic/uvenv/socc/bin/python",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.runInTerminal": true,
+}
